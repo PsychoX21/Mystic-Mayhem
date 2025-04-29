@@ -1,0 +1,6 @@
+master_volume=1.0
+music_volume=1.0
+sfx_volume=1.0
+tutorial=Press Right to View
+resolution=1600x900
+show_tutorial=True
